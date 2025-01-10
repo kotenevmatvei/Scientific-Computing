@@ -1,0 +1,3 @@
+/home/matvei/wr/ha4/code_blatt04/build/CMakeFiles/Blatt4.dir
+/home/matvei/wr/ha4/code_blatt04/build/CMakeFiles/edit_cache.dir
+/home/matvei/wr/ha4/code_blatt04/build/CMakeFiles/rebuild_cache.dir

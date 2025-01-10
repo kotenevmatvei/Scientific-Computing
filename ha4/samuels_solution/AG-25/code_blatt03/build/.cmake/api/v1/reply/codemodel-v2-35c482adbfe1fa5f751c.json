@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "WissenschaftlichesRechnen",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Blatt3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Blatt3-Debug-6c3778d43bed5ddfc189.json",
+					"name" : "Blatt3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/leand/OneDrive/Leander/Humboldt_Universität_zu-Berlin/7. Semester/Wissenschaftliches Rechnen/Coding/AG-25/code_blatt03/build",
+		"source" : "/mnt/c/Users/leand/OneDrive/Leander/Humboldt_Universität_zu-Berlin/7. Semester/Wissenschaftliches Rechnen/Coding/AG-25/code_blatt03"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

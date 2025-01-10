@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/leand/OneDrive/Leander/Humboldt_Universität_zu-Berlin/7. Semester/Wissenschaftliches Rechnen/Coding/AG-25/code_blatt03/structures/CSRMatrix.cpp
+CSRMatrix.hpp
+/mnt/c/Users/leand/OneDrive/Leander/Humboldt_Universität_zu-Berlin/7. Semester/Wissenschaftliches Rechnen/Coding/AG-25/code_blatt03/structures/CSRMatrix.hpp
+
+/mnt/c/Users/leand/OneDrive/Leander/Humboldt_Universität_zu-Berlin/7. Semester/Wissenschaftliches Rechnen/Coding/AG-25/code_blatt03/structures/CSRMatrix.hpp
+vector
+-
+list
+-
+tuple
+-
+DenseVector.hpp
+/mnt/c/Users/leand/OneDrive/Leander/Humboldt_Universität_zu-Berlin/7. Semester/Wissenschaftliches Rechnen/Coding/AG-25/code_blatt03/structures/DenseVector.hpp
+spa.hpp
+/mnt/c/Users/leand/OneDrive/Leander/Humboldt_Universität_zu-Berlin/7. Semester/Wissenschaftliches Rechnen/Coding/AG-25/code_blatt03/structures/spa.hpp
+
+/mnt/c/Users/leand/OneDrive/Leander/Humboldt_Universität_zu-Berlin/7. Semester/Wissenschaftliches Rechnen/Coding/AG-25/code_blatt03/structures/DenseVector.hpp
+iostream
+-
+vector
+-
+
+/mnt/c/Users/leand/OneDrive/Leander/Humboldt_Universität_zu-Berlin/7. Semester/Wissenschaftliches Rechnen/Coding/AG-25/code_blatt03/structures/spa.hpp
+vector
+-
+list
+-
+tuple
+-
+DenseVector.hpp
+/mnt/c/Users/leand/OneDrive/Leander/Humboldt_Universität_zu-Berlin/7. Semester/Wissenschaftliches Rechnen/Coding/AG-25/code_blatt03/structures/DenseVector.hpp
+

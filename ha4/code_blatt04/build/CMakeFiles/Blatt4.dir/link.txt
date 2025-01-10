@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Blatt4.dir/main.cpp.o CMakeFiles/Blatt4.dir/structures/DenseVector.cpp.o CMakeFiles/Blatt4.dir/structures/CSRMatrix.cpp.o -o Blatt4 
