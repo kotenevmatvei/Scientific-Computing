@@ -1,3 +1,0 @@
-/mnt/c/Users/leand/OneDrive/Leander/Humboldt_Universität_zu-Berlin/7. Semester/Wissenschaftliches Rechnen/Coding/AG-25/code_blatt03/build/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/leand/OneDrive/Leander/Humboldt_Universität_zu-Berlin/7. Semester/Wissenschaftliches Rechnen/Coding/AG-25/code_blatt03/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/leand/OneDrive/Leander/Humboldt_Universität_zu-Berlin/7. Semester/Wissenschaftliches Rechnen/Coding/AG-25/code_blatt03/build/CMakeFiles/Blatt3.dir

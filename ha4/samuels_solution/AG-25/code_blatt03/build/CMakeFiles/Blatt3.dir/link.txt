@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Blatt3.dir/main.cpp.o CMakeFiles/Blatt3.dir/structures/DenseVector.cpp.o CMakeFiles/Blatt3.dir/structures/CSRMatrix.cpp.o CMakeFiles/Blatt3.dir/structures/spa.cpp.o  -o Blatt3 

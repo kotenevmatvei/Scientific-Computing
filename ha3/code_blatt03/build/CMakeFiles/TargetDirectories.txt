@@ -1,3 +1,0 @@
-/home/matvei/wr/ha3/code_blatt03/build/CMakeFiles/Blatt3.dir
-/home/matvei/wr/ha3/code_blatt03/build/CMakeFiles/edit_cache.dir
-/home/matvei/wr/ha3/code_blatt03/build/CMakeFiles/rebuild_cache.dir

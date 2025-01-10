@@ -1,3 +1,0 @@
-/home/matvei/wr/example/cppCmakeExample/build/CMakeFiles/VectorExample.dir
-/home/matvei/wr/example/cppCmakeExample/build/CMakeFiles/edit_cache.dir
-/home/matvei/wr/example/cppCmakeExample/build/CMakeFiles/rebuild_cache.dir
